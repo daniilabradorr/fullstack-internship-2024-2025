@@ -20,7 +20,7 @@ Este repositorio contiene los proyectos desarrollados durante mi internship como
 │   │── sql-queries/                   # Consultas SQL y optimizaciones
 │── README.md                          # Descripción general del repositorio
 │── .gitignore                         # Archivos a ignorar
-
+```
 ## 🛠 Tecnologías utilizadas
 Backend: Python, Django, Flask.
 Frontend: Streamlit, Bootstrap, HTML, CSS, JavaScript.
