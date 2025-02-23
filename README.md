@@ -2,6 +2,11 @@
 
 Este repositorio contiene los proyectos desarrollados durante mi internship como Full Stack Developer entre diciembre de 2024 y junio de 2025. La estructura del repositorio se actualizará conforme avance la práctica y se desarrollen nuevos proyectos en distintas tecnologías. Ten en cuenta que algunas carpetas están vacías por ahora, ya que estoy subiendo los proyectos gradualmente mientras estudio el máster de Desarrollo Web Full Stack.
 
+📜 Notas
+⚠️ Datos Ficticios: Todos los datos usados en las bases de datos son generados aleatoriamente y no pertenecen a ninguna empresa real.
+⚠️ Proyectos Basados en mi Experiencia: Esta es una versión simplificada de los proyectos y programas que desarrollé en la empresa donde hice mis prácticas como Full Stack Developer.
+
+
 ## 📂 Estructura del repositorio
 
 ```plaintext
