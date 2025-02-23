@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Streamlit
+.streamlit/
+
+# SQLite Database NO LAS DEBERÍA DE SUBIR PERO AL SER UN EJEMPLO FICTICIO LAS NECESITAREÍS.
+# Virtual Environment
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+
+# Logs y Archivos Temporales
+*.tmp
+*.swp
+.DS_Store
+*.bak
